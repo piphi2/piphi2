@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @piphi2
 - 👀 I’m interested in mathematics, of course ;-)
 - 🌱 I’m currently learning to use GitHub !
-
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me : come into the classroom #247
 - ⚡ Fun fact: ...
 
 <!---
